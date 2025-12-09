@@ -7,12 +7,21 @@
     <value><![CDATA[girafe]]></value>
   </data>
   <data name="elephant_3">
-    <value><![CDATA[Ã©lÃ©phant]]></value>
+    <value><![CDATA[éléphant]]></value>
   </data>
   <data name="newstrin_4">
-    <value><![CDATA[nouvelle chaÃ®ne]]></value>
+    <value><![CDATA[nouvelle chaîne]]></value>
   </data>
   <data name="book_5">
-    <value><![CDATA[rÃ©server]]></value>
+    <value><![CDATA[réserver]]></value>
+  </data>
+  <data name="four_6">
+    <value><![CDATA[quatre]]></value>
+  </data>
+  <data name="five_7">
+    <value><![CDATA[cinq]]></value>
+  </data>
+  <data name="dog_8">
+    <value><![CDATA[chien]]></value>
   </data>
 </root>
