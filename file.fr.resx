@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
   <data name="sheep_1">
-    <value><![CDATA[sheep]]></value>
+    <value><![CDATA[mouton]]></value>
   </data>
   <data name="giraffe_2">
-    <value><![CDATA[giraffe]]></value>
+    <value><![CDATA[girafe]]></value>
   </data>
   <data name="elephant_3">
-    <value><![CDATA[elephant]]></value>
+    <value><![CDATA[Ã©lÃ©phant]]></value>
   </data>
   <data name="newstrin_4">
-    <value><![CDATA[new string]]></value>
+    <value><![CDATA[nouvelle chaÃ®ne]]></value>
   </data>
   <data name="book_5">
-    <value><![CDATA[book]]></value>
+    <value><![CDATA[rÃ©server]]></value>
   </data>
 </root>
