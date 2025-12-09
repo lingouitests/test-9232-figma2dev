@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-
+  <data name="sheep_1">
+    <value><![CDATA[sheep]]></value>
+  </data>
+  <data name="giraffe_2">
+    <value><![CDATA[giraffe]]></value>
+  </data>
+  <data name="elephant_3">
+    <value><![CDATA[elephant]]></value>
+  </data>
+  <data name="newstrin_4">
+    <value><![CDATA[new string]]></value>
+  </data>
+  <data name="book_5">
+    <value><![CDATA[book]]></value>
+  </data>
+  <data name="four_6">
+    <value><![CDATA[four]]></value>
+  </data>
+  <data name="five_7">
+    <value><![CDATA[five]]></value>
+  </data>
+  <data name="dog_8">
+    <value><![CDATA[dog]]></value>
+  </data>
 </root>
